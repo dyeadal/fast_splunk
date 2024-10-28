@@ -8,11 +8,11 @@ Purpose: A combination of automation, infrastructure, cyber security solutions t
 ### Requirements:
 -	Laptop or Computer of choice to remotely manage hypervisor and VMs
 -	Proxmox Host
-  -	100GB HDD
-    -	Linux server VM (Splunk Server)
-        -	2 vCPUs
-        -	4GB RAM
-    -	Windows 11 Desktop Virtual Machine (Splunk Endpoint Agent)
-        -	2 vCPUs
-        -	4GB RAM
+    -	100GB HDD
+        -	Linux server VM (Splunk Server)
+            -	2 vCPUs
+            -	4GB RAM
+        -	Windows 11 Desktop Virtual Machine (Splunk Endpoint Agent)
+            -	2 vCPUs
+            -	4GB RAM
 
